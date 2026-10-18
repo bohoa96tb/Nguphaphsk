@@ -11,6 +11,7 @@
  *  v         : (tuỳ chọn) tăng số này khi sửa nội dung để trình duyệt tải bản mới.
  */
 window.GRAMMAR_MANIFEST = [
+  { id: "hsk2-bai-2", level: "HSK2", number: 2, title: "我每天六点起床", titleVi: "Hàng ngày tôi thức dậy lúc 6 giờ", points: 3, questions: 38, dialogues: 3, file: "data/hsk2/bai-2.js", v: 1 },
   { id: "hsk2-bai-3", level: "HSK2", number: 3, title: "左边那个红色的是我的", titleVi: "Cái màu đỏ ở bên trái là của tôi", points: 3, questions: 37, file: "data/hsk2/bai-3.js", v: 1 },
 
   // { id: "hsk2-bai-4", level: "HSK2", number: 4, title: "...", titleVi: "...", points: 3, questions: 30, file: "data/hsk2/bai-4.js", v: 1 },
